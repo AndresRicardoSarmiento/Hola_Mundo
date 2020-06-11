@@ -10,7 +10,7 @@
         android:layout_width="297dp"
         android:layout_height="36dp"
         android:autoText="false"
-        android:text="Hola, Me llamo Andres Sarmiento y esta es mi Primera App!"
+        android:text="Hola, Me llamo Andres Sarmiento y esta es Mi Primera App!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
